@@ -20,6 +20,6 @@ Track notes / research [here, in my Quip doc](https://quip.com/rsFoAR8HRclG/Tyle
 
 - [x] Ruby Tutorial
 - [x] Find API
-- [ ] Function call API
-- [ ] Function transform data
+- [x] Function call API
+- [x] Function transform data
 - [ ] Minimal frontend to display ride data
