@@ -24,3 +24,4 @@ Track notes / research [here, in my Quip doc](https://quip.com/rsFoAR8HRclG/Tyle
 - [x] Function transform data
 - [ ] Ruby on Rails tutorial (location data in Model, view to insert data into template for frontend)
 - [ ] Minimal frontend to display ride data (map of NYC, dots of pickup / dropoff using lat/long)
+![TaxiRidesMock](https://github.com/DylanPJackson/ruby_intro/assets/32489928/3cda04ad-a11a-44e1-ae15-775d89905b38)
