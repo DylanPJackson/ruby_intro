@@ -22,4 +22,5 @@ Track notes / research [here, in my Quip doc](https://quip.com/rsFoAR8HRclG/Tyle
 - [x] Find API
 - [x] Function call API
 - [x] Function transform data
-- [ ] Minimal frontend to display ride data
+- [ ] Ruby on Rails tutorial (location data in Model, view to insert data into template for frontend)
+- [ ] Minimal frontend to display ride data (map of NYC, dots of pickup / dropoff using lat/long)
