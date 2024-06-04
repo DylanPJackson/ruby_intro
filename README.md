@@ -6,7 +6,8 @@ resident anywere can access it"
 Track notes / research [here, in my Quip doc](https://quip.com/rsFoAR8HRclG/Tyler-Technologies-Ruby-Toy-Project)
 
 ## Initial Production Design
-[image here]
+![ruby_taxi](https://github.com/DylanPJackson/ruby_intro/assets/32489928/a6e60f7c-76d2-40aa-ac53-0b7947761344)
+
 
 ## MVP Local Design 
 #### (no streaming, demonstrates functionality of pulling, transforming, and displaying data)
